@@ -1,4 +1,4 @@
-# Data Science Summer School 2023
+# Data Science Summer School 2023 (Data Science Lab, Hertie School, Germany)
 
 **Data Science Lab, Hertie School, Germany**
 
