@@ -8,7 +8,8 @@ An intensive and interactive online program designed to expand data science know
 
 The **Data Science Summer School 2023** is a curated series of theoretical and hands-on workshops focused on modern data science methodologies and technologies. These sessions explore how data-driven approaches are used across **industry, government, and civil society** to solve some of the world’s most complex challenges.
 
-##  What You’ll Gain
+
+## What You’ll Gain
 
 Participants of the Summer School benefit from:
 
@@ -25,22 +26,29 @@ Participants of the Summer School benefit from:
   Official recognition upon successful participation  
 
 - **Fully Sponsored Program**  
-  it accessible to all selected participants  
+  Accessible to all selected participants at no cost  
 
----
 
-## (Organizers)
+## My Learning Experience
+
+This course helped me gain a deep understanding of data science concepts and significantly improved my knowledge. I had the opportunity to interact with senior faculty members, which made the learning experience even more valuable and insightful.
+
+This program added strong value to my academic journey and enhanced my practical skills.
+
+I have uploaded all the files and materials in this repository, including everything I learned during the course as well as the study resources provided to me. It also includes my personal practice work and experiences, so that others can easily learn and benefit from it.
+
+## Organizers
 
 The program is organized by the **Hertie School Data Science Lab**, with generous support from:
 
 - Hertie School  
 - Dieter Schwarz Foundation  
 
-
 ## Final Note
 
 > *"Let’s persist in our quest to explore the world through data and uncover insights that light the way to a brighter future."* 🚀💡
 
+---
 
 ## 📬 Connect With Me
 
