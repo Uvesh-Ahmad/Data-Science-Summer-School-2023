@@ -1,6 +1,6 @@
 # Data Science Summer School 2023 (Data Science Lab, Hertie School, Germany)
 
-**Data Science Lab, Hertie School, Germany**
+**Data Science Lab, Hertie School, Germany**   
 
 An intensive and interactive online program designed to expand data science knowledge and foster meaningful connections with peers and experts.
 
